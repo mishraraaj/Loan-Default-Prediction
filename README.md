@@ -1,4 +1,7 @@
 # Loan-Default-Prediction
+![alt text](https://i.investopedia.com/dimages/graphics/default.png)
+
+
 
 Problem Statement Desciption - Lending Club is the world’s largest online marketplace connecting borrowers and investors. An inevitable outcome of lending is default by borrowers. The idea of this project is to create a predictive model that identifies applicants who are relatively risky for a loan. 
 
